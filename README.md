@@ -4,7 +4,7 @@ Hi 👋 My name is Luciano Cerullo
 FullStack Student - Currently FrontEnd Developer(ReactJs)
 -----------------------------------------------------------
 
-I´ve been learning HTML, CSS And JavaScript for 4 months now, decided to learn because i´ve been in love with Computers and Software/Hardware stuff. I hope to get a great Job while i keep learning what i love.
+I´ve been learning HTML, CSS JavaScript EMCAScript 6 And ReactJS for 8 months now, decided to learn because i´ve been in love with Computers and Software/Hardware stuff. I hope to get a great Job while i keep learning what i love.
 
 * 🌍  I'm based in Buenos Aires, Argentina
 * ✉️  You can contact me at [lucianonicolas10@gmail.com](mailto:lucianonicolas10@gmail.com)
