@@ -8,7 +8,7 @@ I´ve been learning HTML, CSS And JavaScript for 4 months now, decided to learn 
 
 * 🌍  I'm based in Buenos Aires, Argentina
 * ✉️  You can contact me at [lucianonicolas10@gmail.com](mailto:lucianonicolas10@gmail.com)
-* 🧠  I'm learning ReactJS.
+* 🧠  I'm learning ReactJS and Backend ( M E R N).
 * 🤝  I'm open to collaborating on Interesting projects.
 * ⚡  I´m secretly a Spider-Man... But nobody´s has to know(at least by now).
 
