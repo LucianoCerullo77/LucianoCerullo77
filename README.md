@@ -10,7 +10,7 @@ I´ve been learning HTML, CSS JavaScript EMCAScript 6 And ReactJS for 8 months n
 * ✉️  You can contact me at [lucianonicolas10@gmail.com](mailto:lucianonicolas10@gmail.com)
 * 🧠  I'm learning ReactJS and Backend ( M E R N).
 * 🤝  I'm open to collaborating on Interesting projects.
-* ⚡  I´m secretly Spider-Man... But nobody´s has to know(at least by now).
+
 
 ### Skills
 
