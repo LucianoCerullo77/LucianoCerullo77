@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **lucianonicolas10@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1QgYvB9c94fT7YwA20Ikm1yGT0MDHQLnb/view?usp=sharing](https://drive.google.com/file/d/1QgYvB9c94fT7YwA20Ikm1yGT0MDHQLnb/view?usp=sharing)
+- 📄 My Current Resume [https://drive.google.com/file/d/1QgYvB9c94fT7YwA20Ikm1yGT0MDHQLnb/view?usp=sharing](https://drive.google.com/file/d/1QgYvB9c94fT7YwA20Ikm1yGT0MDHQLnb/view?usp=sharing)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
