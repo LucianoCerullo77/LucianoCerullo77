@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Angular, Backend Frameworks and Flutter!**
 
-- 👨‍💻 All of my projects are available at [https://portfoliov2-luciano-cerullo.vercel.app/](https://portfoliov2-luciano-cerullo.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://portfoliov2-luciano-cerullo.vercel.app/](https://portfoliov2-luciano-cerullo.vercel.app/) (Currently on work)
 
 - 💬 Ask me about **React, Angular, TailwindCss**
 
