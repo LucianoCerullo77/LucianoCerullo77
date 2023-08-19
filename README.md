@@ -14,8 +14,6 @@
 
 - 📫 How to reach me **lucianonicolas10@gmail.com**
 
-- 📄 My Current Resume [https://drive.google.com/file/d/1QgYvB9c94fT7YwA20Ikm1yGT0MDHQLnb/view?usp=sharing](https://drive.google.com/file/d/1QgYvB9c94fT7YwA20Ikm1yGT0MDHQLnb/view?usp=sharing)
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/lucianocerullo77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucianocerullo77" height="30" width="40" /></a>
