@@ -6,7 +6,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lucianocerullo77" alt="lucianocerullo77" /></a> </p>
 
-- 🌱 I’m currently learning **Angular, Backend Frameworks and Flutter!**
+- 🌱 I’m currently learning **Angular, Backend and Flutter!**
 
 - 👨‍💻 All of my projects are available at [https://portfoliov2-luciano-cerullo.vercel.app/](https://portfoliov2-luciano-cerullo.vercel.app/) (Currently on work)
 
