@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portfoliov2-luciano-cerullo.vercel.app/](https://portfoliov2-luciano-cerullo.vercel.app/) (Currently on work)
 
-- 💬 Ask me about **React, Angular, TailwindCss**
+- 💬 Mastering **React, Angular, TailwindCss**
 
 - 📫 How to reach me **lucianonicolas10@gmail.com**
 
